@@ -1,0 +1,17 @@
+{
+    "name": "rb/solids",
+    "description": "SOLID series setup",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rb\\Solids\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bhushan",
+            "email": "bhushangaykawad@gmail.com"
+        }
+    ],
+    "require": {}
+}
